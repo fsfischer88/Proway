@@ -30,7 +30,7 @@ class Nascimento:
 
     
     def metodo_de_instance(self):
-        print(f"Meu nume é {self.nome}")
+        print(f"Meu nome é {self.nome}")
         
         
     @classmethod
